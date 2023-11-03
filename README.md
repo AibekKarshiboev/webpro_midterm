@@ -1,25 +1,19 @@
 # Textarea
 
-My simple midterm project
-Here you can encrypt your text
+Welcome to my simple midterm project, a user-friendly tool that helps you protect your text easily. My Text Encryption Tool allows you to keep your messages, documents, or any text private. You can use it for yourself, for learning, or to add more privacy to your messages.
 
-## Screenshots
-
-![image](link)
 
 ## Links
 
-- [GitHub](https://github.com/)
-- [React](https://reactjs.org/)
+- [GitHub](https://github.com/AibekKarshiboev/webpro_midterm/)
 
 ## My tutor
 
-<<<<<<< HEAD
-
-=======
 - Video in [YouTube](https://www.youtube.com/)
->>>>>>> 7b0ee80 (initial commit)
 
 ## Author
 
--
+- Aibek Karshiboev
+
+## Screenshot
+![Sample Image](image/aibek.png)
