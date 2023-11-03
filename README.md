@@ -14,7 +14,11 @@ Here you can encrypt your text
 
 ## My tutor
 
+<<<<<<< HEAD
 
+=======
+- Video in [YouTube](https://www.youtube.com/)
+>>>>>>> 7b0ee80 (initial commit)
 
 ## Author
 
