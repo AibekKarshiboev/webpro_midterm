@@ -6,10 +6,7 @@ Welcome to my simple midterm project, a user-friendly tool that helps you protec
 ## Links
 
 - [GitHub](https://github.com/AibekKarshiboev/webpro_midterm/)
-
-## My tutor
-
-- Video in [YouTube](https://www.youtube.com/)
+- [Demo](http://aibek12.s3-website-us-east-1.amazonaws.com/)
 
 ## Author
 
@@ -17,3 +14,5 @@ Welcome to my simple midterm project, a user-friendly tool that helps you protec
 
 ## Screenshot
 ![Sample Image](image/aibek.png)
+
+
